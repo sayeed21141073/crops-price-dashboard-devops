@@ -2,6 +2,7 @@
 
 This repository contains all **DevOps and Infrastructure-as-Code** setup for deploying the **Crop Price Dashboard** project on AWS EKS with monitoring and GitOps.
 
+Here is the github repo link that contains full source code along with mutli-stage Dockerfile and docker-compose.yaml: https://github.com/sayeed21141073/crops-price-dashboard
 ---
 
 ## **DevOps Overview**
